@@ -7,6 +7,7 @@ Hi, Teman-teman ini merupakan dashboard profile view dari akun Partner N6oding, 
 - 💬 Telegram : @partnern6oding.
 - 👯 Facebook : $partnern6oding.
 
+### Long Term Support
 Best regard,<br>
 Partner N6oding Tech.<br>
 <b>Mentor & Quality Control.</b>
