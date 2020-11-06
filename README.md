@@ -4,7 +4,8 @@ Hi, Teman-teman ini merupakan dashboard profile view dari akun Partner N6oding, 
 ### Media Social
 - 🤔 Email : septiadi.imail@gmail.com
 - 👯 GitHub : Partnern6oding Tech.
-- 💬 Telegram : @partnern6oding
+- 💬 Telegram : @partnern6oding.
+- 👯 Facebook : $partnern6oding.
 
 Best regard,<br>
 Partner N6oding Tech.<br>
