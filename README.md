@@ -1,12 +1,6 @@
 ### Hi, This Repository for Default Dashboard in my Account
 Hi, Teman-teman ini merupakan dashboard profile view dari akun Partner N6oding, disini kami kumpulkan beberapa repository yang khusus digunakan untuk materi pembelajaran sampai pengerjaan project, mentor dari Account ini bisa kalian lihat di <a href="www.github.com/chainshelter">Asep Septiadi, S.Kom.</a>, Di akun ini juga akan kami sisipkan berbagai informasi dari best practice yang bisa diikuti untuk teman-teman apabila membutuhkan. Sampai jumpa dan Have code.
 
-### Media Social
-- 🤔 Email : septiadi.imail@gmail.com
-- 👯 GitHub : github.com/fdxrun
-- 💬 Telegram : @septiadi
-- 👯 Facebook : $eljitech
-
 <!--
 **partnern6oding/partnern6oding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
