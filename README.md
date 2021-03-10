@@ -3,14 +3,9 @@ Hi, Teman-teman ini merupakan dashboard profile view dari akun Partner N6oding, 
 
 ### Media Social
 - 🤔 Email : septiadi.imail@gmail.com
-- 👯 GitHub : Partnern6oding Tech.
-- 💬 Telegram : @partnern6oding.
-- 👯 Facebook : $partnern6oding.
-
-### Long Term Support
-Best regard,<br>
-Partner N6oding Tech.<br>
-<b>Mentor & Quality Control.</b>
+- 👯 GitHub : github.com/fdxrun
+- 💬 Telegram : @septiadi
+- 👯 Facebook : $eljitech
 
 <!--
 **partnern6oding/partnern6oding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
